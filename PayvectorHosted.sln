@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayvectorHosted.SampleWeb", "PayvectorHosted.SampleWeb\PayvectorHosted.SampleWeb.csproj", "{661C931B-70EF-44F3-9EE0-49B03B0A2FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayvectorHosted.Payment", "PayvectorHosted.Payment\PayvectorHosted.Payment.csproj", "{0F917471-A6DD-487D-A806-A00FFD3F6C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661C931B-70EF-44F3-9EE0-49B03B0A2FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661C931B-70EF-44F3-9EE0-49B03B0A2FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661C931B-70EF-44F3-9EE0-49B03B0A2FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661C931B-70EF-44F3-9EE0-49B03B0A2FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F917471-A6DD-487D-A806-A00FFD3F6C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F917471-A6DD-487D-A806-A00FFD3F6C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F917471-A6DD-487D-A806-A00FFD3F6C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F917471-A6DD-487D-A806-A00FFD3F6C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BA8863-601D-48E1-BE64-1FAD9B5840D2}
+	EndGlobalSection
+EndGlobal
